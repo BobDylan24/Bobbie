@@ -146,3 +146,4 @@ cython_debug/
 
 
 configs/secret.py
+database/db.sqlite
